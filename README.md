@@ -1,34 +1,118 @@
-<h1 align="center">Hi 👋, I'm Steven Kala' Tiku</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stevenkt&label=Profile%20views&color=0e75b6&style=flat" alt="stevenkt" /> </p>
+<header align="left">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevenkt" alt="stevenkt" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/trj" target="blank"><img src="https://img.shields.io/twitter/follow/trj?logo=twitter&style=for-the-badge" alt="trj" /></a> </p>
+<table align="left">
+  <tr >
+    <th>
+      <img align="center" width="24" height="24" src="https://img.icons8.com/material-outlined/24/EBEBEB/globe--v1.png" alt="globe--v1"/>
+      <a href="https://www.jfmartinz.dev/" />  My Portfolio  
+    </th> 
+    <th>
+   <img align="center" width="24" height="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>   
+  <a href="https://www.linkedin.com/in/jfmartinz/" />   LinkedIn
+    </th> 
+        <th>
+  <a href="https://dev.to/jfmartinz" /> 
+  <img align="center" width="24" height="24" src="https://img.icons8.com/color/48/dev-community.png" alt="dev-community"/>  
+  Dev.to blog
+    </th> 
+     <th>
+       <img align="center" width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>
+        <a href="https://leetcode.com/u/jfmartinz/">LeetCode</a>
+    </th>
+     <th>
+       <img width="24" height="24" align="center" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/twitterx--v1.png" alt="twitterx--v1"/>
+      <a href="https://twitter.com/jfmartinz" />   𝕏 (Twitter)
+    </th> 
+  </tr>
+  
+</table>
+</section>
+</header>  
+<section>  
+<br>
+<br>
 
-- 🌱 I’m currently learning **Html css PHP js**
 
-- ⚡ Fun fact **For bussnies**
+### About me☕
 
-### Blogs posts
+Hi, i'm <b>Joseph Martin</b>, a Fourth-year Computer Science student at the [University of Nueva Caceres](https://unc.edu.ph/). I enjoy contributing to open source and have participated in programs like GirlScript Summer of Code ([GSSOC](https://gssoc.girlscript.tech/)), [Hacktoberfest](https://hacktoberfest.com/), and Social Winter of Code ([SWOC](https://www.socialwinterofcode.com/)). Currently completing my internship at [SmartBridge](https://thesmartbridge.com/) as a Full Stack Developer intern 
+
+Passionate and eager to apply my technical knowledge to build impactful solutions, contribute to innovative projects, collaborate with others, and grow as a developer.
+
+Let's Connect 👋🏻
+</section>
+
+<hr>
+<section>
+
+### Technologies & Tools 💻
+
+<table>
+  <tr>
+<td valign="top" width="50%">
+  <h6>Front-End Development 👨‍💻</h6>
+  <!-- Web Development Essentials -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" />
+  <!-- JavaScript Ecosystem -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-58c4dc?style=plastic&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-00bcff?style=plastic&logo=tailwindcss&logoColor=white" />
+</td>
+<td valign="top" width="50%">
+  <h6>Backend Development 🧱</h6>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" />
+       
+</td>
+  </tr>
+  <tr>
+     <td valign="top" width="50%">
+      <h6>Databases 🗃️</h6>
+       <img src="https://img.shields.io/badge/Supabase-181818?style=plastic&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white" />
+  </td>
+
+  <td valign="top" width="50%">
+    <h6>Others 🖤</h6>
+      <img src="https://img.shields.io/badge/Git-f74d27?style=plastic&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-000000?style=plastic&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-005C84?style=plastic&logo=figma&logoColor=white" />
+  </td>
+  </tr>
+</table>
+
+
+---
+### Latest Blog Posts 📍
 <!-- BLOG-POST-LIST:START -->
+- [Level Up Your GitHub Profile With These 20+ Amazing Resources! 🚀](https://dev.to/jfmartinz/level-up-your-github-profile-with-these-20-amazing-resources-524p)
+- [My Hacktoberfest 2024 Journey—reflection](https://dev.to/jfmartinz/my-hacktoberfest-2024-journey-reflection-1fol)
+- [Hacktoberfest 2024: Everything You Need to Know!](https://dev.to/jfmartinz/hacktoberfest-2024-everything-you-need-to-know-29h7)
+- [Beginner’s Guide to Open-Source. Start your Open-Source Journey 🚀](https://dev.to/jfmartinz/beginners-guide-to-open-source-start-your-open-source-journey-470l)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dev.steven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.steven" height="30" width="40" /></a>
-<a href="https://twitter.com/trj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="trj" height="30" width="40" /></a>
-<a href="https://fb.com/steven kala' tiku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="steven kala' tiku" height="30" width="40" /></a>
-<a href="https://instagram.com/steven_k.t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="steven_k.t" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/stevenkt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="stevenkt" height="30" width="40" /></a>
-</p>
+<hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<table>
+<tr>
+  <td>
+    
+  ![](https://github-readme-stats.shion.dev/api?username=jfmartinz&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=false)
+  </td>
+  <td>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevenkt&show_icons=true&locale=en&layout=compact" alt="stevenkt" /></p>
+   ![](https://streak-stats.demolab.com/?user=jfmartinz&theme=discord_old_blurple&hide_border=true)  
+  </td>
+</tr>
+</table>
+</section>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stevenkt&show_icons=true&locale=en" alt="stevenkt" /></p>
+### Holopin Badges 🏷️
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stevenkt&" alt="stevenkt" /></p>
+[![An image of @jfmartinz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jfmartinz)](https://holopin.io/@jfmartinz)
+
