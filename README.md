@@ -90,10 +90,7 @@ Let's Connect 👋🏻
 ---
 ### Latest Blog Posts 📍
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your GitHub Profile With These 20+ Amazing Resources! 🚀](https://dev.to/jfmartinz/level-up-your-github-profile-with-these-20-amazing-resources-524p)
-- [My Hacktoberfest 2024 Journey—reflection](https://dev.to/jfmartinz/my-hacktoberfest-2024-journey-reflection-1fol)
-- [Hacktoberfest 2024: Everything You Need to Know!](https://dev.to/jfmartinz/hacktoberfest-2024-everything-you-need-to-know-29h7)
-- [Beginner’s Guide to Open-Source. Start your Open-Source Journey 🚀](https://dev.to/jfmartinz/beginners-guide-to-open-source-start-your-open-source-journey-470l)
+
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
